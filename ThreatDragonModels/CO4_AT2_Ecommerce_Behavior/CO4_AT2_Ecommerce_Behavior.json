@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-08-25",
+  "summary": {
+    "title": "CO4_AT2_Ecommerce_Behavior",
+    "owner": "krishnan gupta ",
+    "description": "\"An e-commerce platform that captures customer clickstream, cart, and payment behavior in real time to detect cart abandonment, identify payment failures, and support marketing decisions through a big data pipeline.\"",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
