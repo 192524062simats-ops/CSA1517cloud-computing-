@@ -18,7 +18,8 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "A data flow diagram showing how customer clickstream, cart, and payment data moves through the e-commerce pipeline — from customer and payment gateway (external entities), through the ingestion API and stream processor, into the data lake, and out to the dashboard — including a trust boundary between the public internet and internal system."
       }
     ],
     "diagramTop": 2,
